@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  alibaba-rsocket-broker:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-04-24T18:56:39.170537-07:00"
+    description: A Helm chart for Alibaba RSocket Broker
+    digest: b4921b08892b9a34a5c689cc539c32b79dba9ec0d738ea35f5a0249509dadb03
+    home: https://github.com/alibaba/alibaba-rsocket-broker
+    icon: https://rsocket.io/img/r-socket-pink.svg
+    keywords:
+    - rsocket
+    - broker
+    - reactive
+    maintainers:
+    - email: libing.chen@gmail.com
+      name: linux_china
+      url: https://github.com/linux_china
+    name: alibaba-rsocket-broker
+    type: application
+    urls:
+    - https://github.com/alibaba-rsocket-broker/rsocket-broker-helm/releases/download/0.1.0/alibaba-rsocket-broker-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-24T18:56:39.16991-07:00"
