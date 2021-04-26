@@ -4,7 +4,8 @@ Alibaba RSocket Broker相关的资源
 
 # 资源
 
-* Helm chart
+* https://alibaba-rsocket-broker.github.io/ 站点
+* Helm chart hosting
 
 # 参考
 
