@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alibaba-rsocket-broker.github.io/blog</id>
+    <id>https://alibroker.info/blog</id>
     <title>Alibaba RSocket Broker Blog</title>
     <updated>2021-04-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://alibaba-rsocket-broker.github.io/blog"/>
+    <link rel="alternate" href="https://alibroker.info/blog"/>
     <subtitle>Alibaba RSocket Broker Blog</subtitle>
-    <icon>https://alibaba-rsocket-broker.github.io/favicon.ico</icon>
+    <icon>https://alibroker.info/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Alibaba RSocket Broker Helm Chart发布]]></title>
         <id>Alibaba RSocket Broker Helm Chart发布</id>
-        <link href="https://alibaba-rsocket-broker.github.io/blog/2021/04/25/helm-chart"/>
+        <link href="https://alibroker.info/blog/2021/04/25/helm-chart"/>
         <updated>2021-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Alibaba RSocket Broker 1.1.0版本增加了Kubernetes的支持， 部署也不是特别麻烦，就是大家都懂的kubectl apply -f deployment.yaml， 考虑到K8S社区还是基于Helm部署为主，所以我们添加了RSocket Broker Helm Chart，借助Helm更方便地管理RSocket Broker部署。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alibaba RSocket Broker 1.1.0发布]]></title>
         <id>Alibaba RSocket Broker 1.1.0发布</id>
-        <link href="https://alibaba-rsocket-broker.github.io/blog/2021/04/24/broker-1.1.0-released"/>
+        <link href="https://alibroker.info/blog/2021/04/24/broker-1.1.0-released"/>
         <updated>2021-04-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[RSocket Broker 1.1基于RSocket Java 1.1.0和Spring Boot 2.4.x开发，紧跟当前最新的技术，但是alibaba-rsocket-spring-boot-starter还是兼容Spring Boot 2.3.x的，Broker Server则调整为基于Spring Boot 2.4.x版本开发，主要是性能等方面的要求。]]></summary>
     </entry>
