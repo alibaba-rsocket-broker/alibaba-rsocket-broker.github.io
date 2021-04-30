@@ -4,9 +4,16 @@
         <title>Alibaba RSocket Broker Blog</title>
         <link>https://alibroker.info/blog</link>
         <description>Alibaba RSocket Broker Blog</description>
-        <lastBuildDate>Sun, 25 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alibaba RSocket Broker free for testing]]></title>
+            <link>https://alibroker.info/blog/2021/04/28/free-rsocket-broker</link>
+            <guid>Alibaba RSocket Broker free for testing</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[启动RSocket Broker非常简单，但是考虑开发的流畅性，我们推出了一个免费的Alibaba RSocket Broker提供给大家测试使用，请注意，是测试，不是产品环境。 :)]]></description>
+        </item>
         <item>
             <title><![CDATA[Alibaba RSocket Broker Helm Chart发布]]></title>
             <link>https://alibroker.info/blog/2021/04/25/helm-chart</link>
