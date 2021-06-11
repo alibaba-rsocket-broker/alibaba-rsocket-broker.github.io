@@ -22,6 +22,6 @@ entries:
     - https://github.com/alibaba-rsocket-broker/rsocket-broker-helm
     type: application
     urls:
-    - alibaba-rsocket-broker-0.1.1.tgz
+    - https://github.com/alibaba-rsocket-broker/rsocket-broker-helm/releases/download/0.1.1/alibaba-rsocket-broker-0.1.1.tgz
     version: 0.1.1
 generated: "2021-06-10T17:07:44.713628-07:00"
