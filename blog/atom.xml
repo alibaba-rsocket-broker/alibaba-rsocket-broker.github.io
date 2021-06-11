@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alibroker.info/blog</id>
     <title>Alibaba RSocket Broker Blog</title>
-    <updated>2021-04-28T00:00:00.000Z</updated>
+    <updated>2021-06-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alibroker.info/blog"/>
     <subtitle>Alibaba RSocket Broker Blog</subtitle>
     <icon>https://alibroker.info/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Alibaba RSocket Broker 1.1.1发布]]></title>
+        <id>Alibaba RSocket Broker 1.1.1发布</id>
+        <link href="https://alibroker.info/blog/2021/06/10/alibaba-rsocket-broker-1-1-1"/>
+        <updated>2021-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从1.1.1版本开始，我们决定对RSocket Broker进行瘦身，一味地叠加特性不是好的设计策略。 将核心功能做的更加可靠，并提供更好的扩展才是好的设计策略，同时让RSocket Broker也能更小。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSocket GraphQL Gateway]]></title>
+        <id>RSocket GraphQL Gateway</id>
+        <link href="https://alibroker.info/blog/2021/06/06/graphql-rsocket"/>
+        <updated>2021-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL在数据查询领域扮演者非常重要的角色，个人觉得GraphQL、OpenAPI和AsyncAPI这三者相辅相成，都是服务自描述，不需要单独的文档说明；包括完成的Schema，如数据类型等； 完备的元数据支持等。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudEvents Java SDK 2.1.0添加RSocket支持]]></title>
+        <id>CloudEvents Java SDK 2.1.0添加RSocket支持</id>
+        <link href="https://alibroker.info/blog/2021/05/05/cloudevents-rsocket"/>
+        <updated>2021-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最新发布的CloudEvents Java SDK 2.1.0添加了RSocket支持，主要CloudEvents对应的cloudevents-spring模块，Maven依赖如下：]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alibaba RSocket Broker free for testing]]></title>
         <id>Alibaba RSocket Broker free for testing</id>
